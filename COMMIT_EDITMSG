@@ -1,0 +1,10 @@
+Improve project navigation and dashboard loading functionality
+
+Update sidebar component to correctly identify active project links based on URL parameters and adjust dashboard component to properly parse projectId from URL.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 8ff901ef-e81e-4107-9322-b37f83c9f641
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: a79b3767-8ed0-40ac-8180-58425575973e
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/84ae45d7-61f7-43bb-996a-43ad3d90875c/8ff901ef-e81e-4107-9322-b37f83c9f641/E8eWIs6
+Replit-Helium-Checkpoint-Created: true
